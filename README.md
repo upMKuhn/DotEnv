@@ -2,7 +2,7 @@
 
 ## i3
 
-Default i3 config with following key adaptations
+Default i3 config with following key adaptations. Install with `./i3/install.sh`
 
 | Key                   | description                               |
 | --------------------- | ----------------------------------------- |
